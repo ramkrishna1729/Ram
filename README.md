@@ -1,2 +1,2 @@
 # Ram
-A Tech Enthusiast student at Techno Main Salt Lake
+Tech Enthusiast || Machine Learning || Python || SQL
